@@ -51,7 +51,7 @@
 		<li>Firefox 3.6</li>
 		<li>Chrome 5.0</li>
 		<li>Safari 4.2</li>
-		<li>jQuery 1.3.2, 1.4.2
+		<li>jQuery 1.3.2, 1.4.2</li>
 	</ul>
 
 	<script type="text/javascript">
@@ -65,12 +65,5 @@
 		}).hide();
 	});
 	</script>
-	
-	<p><b>Changelog:</b></p>
-	<ul>
-		<li>Initial release</li>
-	</ul>
-
-	<p>Copyright by <a href="http://www.dkemper.de">dkemper.de</a></p>
 </body>
 </html>
