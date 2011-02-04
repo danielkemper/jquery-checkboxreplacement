@@ -1,5 +1,14 @@
 # jQuery Checkbox Replacement
 
+ Tested with:
+
+*	IE 6, IE 7, IE 8
+*	Firefox 3.6
+*	Chrome 5.0
+*	Safari 4.2
+*	jQuery 1.3.2, 1.4.2
+
+
 ## HTML-Markup
 	<label for="apple">Apple</label>
 	<input id="apple" checked="checked" name="apple" type="checkbox" />
