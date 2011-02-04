@@ -9,6 +9,7 @@
 *	jQuery 1.3.2, 1.4.2
 
 ![Before](https://github.com/danielkemper/jquery-checkboxreplacement/raw/master/images/before.png)
+
 ![After](https://github.com/danielkemper/jquery-checkboxreplacement/raw/master/images/after.png)
 
 
